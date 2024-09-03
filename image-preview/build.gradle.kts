@@ -50,7 +50,7 @@ dependencies {
 publishing {
     publications {
         register<MavenPublication>("release") {
-            groupId = "com.github.manetivinay;"
+            groupId = "com.github.manetivinay"
             artifactId = "image-preview-compose"
             version = "1.0"
 
